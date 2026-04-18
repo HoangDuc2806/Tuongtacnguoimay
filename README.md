@@ -5,4 +5,5 @@
   Run `npm i` to install the dependencies.
 
   Run `npm run dev` to start the development server.
-  
+## Contributors
+- dquy04: Checkout page, My Account page
