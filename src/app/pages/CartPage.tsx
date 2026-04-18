@@ -23,7 +23,7 @@ export function CartPage() {
             Giỏ hàng trống
           </h2>
           <p className="text-[#6B7280] mb-8">
-            Thêm sản phẩm vào giỏ hàng để bắt đầu mua sắm!
+            Thêm sản phẩm vào giỏ hàng để bắt đầu mua sắm!!
           </p>
           <Button asChild className="bg-[#1F5D42] hover:bg-[#2A7557]">
             <Link to="/shop">Tiếp tục mua sắm</Link>
