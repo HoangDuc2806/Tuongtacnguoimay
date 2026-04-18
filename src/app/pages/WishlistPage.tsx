@@ -96,3 +96,4 @@ export function WishlistPage() {
     </div>
   );
 }
+/* Dat Wishlist */
